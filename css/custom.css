@@ -1,0 +1,18 @@
+html,body{
+	/*font-family: "Lucida Console", Monaco, monospace;*/
+	font-size: 16px;
+	height: 100vh;
+
+
+	/*font-weight: 600;*/
+}
+.container-fluid,.full-length{
+  height: 100vh !important;
+  /*overflow-y: : hidden;*/
+  /*max-height: 100%*/
+}
+.col-lg-6{
+	text-align: justify;
+}
+
+
