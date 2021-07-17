@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Tasfia48/Tasfia48.github.io
+	fetch = +refs/*:refs/*
+	mirror = true
